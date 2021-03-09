@@ -1,0 +1,1 @@
+/apps/bin/c++   -pthread   CMakeFiles/test_thread.dir/test_thread.cc.o CMakeFiles/test_thread.dir/thread.cc.o CMakeFiles/test_thread.dir/scheduler.cc.o CMakeFiles/test_thread.dir/mutex.cc.o CMakeFiles/test_thread.dir/utils.cc.o CMakeFiles/test_thread.dir/fiber.cc.o CMakeFiles/test_thread.dir/iomanager.cc.o  -o ../bin/test_thread -rdynamic 
